@@ -1,0 +1,113 @@
+body {
+    background: rgb(148,199,182);
+    background: linear-gradient(135deg, rgba(148,199,182,1) 0%, rgba(214,225,199,1) 100%);
+}
+
+.linhadeprodutos {
+    display: flex ;
+    justify-content: space-around;
+}
+
+.linhadeprodutos2 {
+    display: flex;
+}
+
+.produto1 {
+    background-color: #edebe6;
+    width: 300px;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.produto2 {
+    background-color: #edebe6;
+    width: 300px;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.produto3 {
+    background-color: #edebe6;
+    width: 300px;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.produto4 {
+    background-color: #edebe6;
+    width: 300px;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+img {
+    width: 260px;
+    margin: 20px;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+h3, h4, h5 {
+    margin: 0px 20px 20px 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #403b33;
+}
+
+button {
+    margin: 0px 20px 20px 20px;
+    border-radius: 5px;
+}
+
+.botaoepreco {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #edebe6;
+    width: 300px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+h2 {
+    margin: 20px;
+
+}
+
+.produto1c {
+    background-color: #edebe6;
+    width: 300px;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-right: 35px;
+}
+
+.compra {
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    height: 50px;
+}
+
+h6 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 16px;
+    height: 10px;
+    margin-right: 20px;
+}
+
+.compra button {
+    height: 35px;
+    margin-top: 25px;
+    border-radius: 7px;
+}
